@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "osru-template": "osru/osru-template#1.0.0"
+    "osru-template-assets": "dinhtienn/osru-template-assets#1.0.0"
   }
 }

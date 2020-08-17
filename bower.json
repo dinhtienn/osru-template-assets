@@ -1,0 +1,17 @@
+{
+  "name": "osru-template",
+  "version": "1.0.1",
+  "authors": [
+    "Dinh Tien <dinhtiennguyen.1202@gmail.com>"
+  ],
+  "description": "Sun* Project 1 template",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dinhtienn/osru-template-assets.git",
+  "ignore": [
+    "README.md"
+  ]
+}

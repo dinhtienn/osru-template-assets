@@ -721,7 +721,7 @@ body.side-right > .wrapper .side-overlay, body.on-side .side-overlay {
     visibility: visible;
     opacity: .5;
     pointer-events: initial;
-    cursor: url(../img/cancel.png) 8 8, move
+    cursor: url('../images/cancel.png') 8 8, move
 }
 
 .side-overlay {
@@ -2238,7 +2238,7 @@ ul.cart-list > li.total > .btn:hover, ul.cart-list > li.total > .btn:focus {
 }
 
 .post__icon.post__icon--video {
-    background: transparent url(../img/format-video.svg) no-repeat 50%
+    background: transparent url('../images/format-video.svg') no-repeat 50%
 }
 
 .post_article .post-cat {
@@ -2450,16 +2450,6 @@ ul.cart-list > li.total > .btn:hover, ul.cart-list > li.total > .btn:focus {
     font-size: 17px
 }
 
-@media (min-width: 767px) {
-    padding:
-
-10px
-
-30px
-
-;
-}
-
 @media (min-width: 768px) {
     .newslatter .form-control {
         width: 350px !important
@@ -2471,7 +2461,7 @@ ul.cart-list > li.total > .btn:hover, ul.cart-list > li.total > .btn:focus {
     text-align: center;
     background: #a35962;
     background-size: cover;
-    background-image: url(../img/newslatter-bg.jpg)
+    background-image: url('../images/newslatter-bg.jpg')
 }
 
 .newslatter2-inner {
@@ -2823,7 +2813,7 @@ figure.effect-lily:hover img, figure.effect-lily:hover h2, figure.effect-lily:ho
     top: 50%;
     width: 50%;
     background-repeat: no-repeat;
-    background-image: url(../img/line.png)
+    background-image: url('../images/line.png')
 }
 
 .ui.divider:before {
@@ -4642,11 +4632,11 @@ h4.grid_post_title {
 }
 
 .title-shape-dark {
-    background: url(../img/shape-dark.png) 0 center repeat-x
+    background: url("../images/shape-dark.png") 0 center repeat-x
 }
 
 .title-shape-white {
-    background: url(../img/shape-white.png) 0 center repeat-x
+    background: url("../images/shape-white.png") 0 center repeat-x
 }
 
 .title-holder2 {
@@ -5211,7 +5201,7 @@ footer {
 }
 
 .ico-logo-footer {
-    background-image: url(../img/logo3.png);
+    background-image: url('../images/logo3.png');
     background-position: center;
     background-size: cover;
     width: 140px;

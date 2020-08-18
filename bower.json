@@ -1,5 +1,17 @@
 {
-  "dependencies": {
-    "osru-template-assets": "dinhtienn/osru-template-assets#1.0.0"
-  }
+  "name": "osru-template-assets",
+  "version": "1.0.0",
+  "authors": [
+    "dinhtienn <dinnhtiennguyen.1202@gmail.com>"
+  ],
+  "description": "Template to develop project 1 on Sun* OE28",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dinhtienn/osru-template-assets.git",
+  "ignore": [
+    "README.md"
+  ]
 }
